@@ -13,8 +13,8 @@ approved, so your changes will not be reflected immediately. If you created a ch
   1. *The Boy Who Wasn't Unalived*
   2. *The Glass That Yeeted Itself*
   3. *The Letters from Ur Mom*
-  4. *The Keeper of the Keys*
-  5. *Diagon Alley*
+  4. *The OG Keymaster*
+  5. *The Drip District*
   
 #### 2 - Harry Potter and the Chamber of Ratios
   1. *The Worst Birthday*
