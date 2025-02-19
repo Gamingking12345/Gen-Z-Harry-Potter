@@ -23,5 +23,5 @@ approved, so your changes will not be reflected immediately. If you created a ch
 #### 4 - *Harry Potter and the Chug Jug of Fiya*
   17. *The Four Champions*
 #### 5 - *Harry Potter and the Fiya-Bird Squad*
-#### 6 - *Harry Potter and the Half-Blood Prince*
+#### 6 - *Harry Potter and the Situationship Sorcerer*
 #### 7 - *Harry Potter and the Sussy Symbols*
