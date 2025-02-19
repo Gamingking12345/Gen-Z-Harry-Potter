@@ -19,6 +19,7 @@ approved, so your changes will not be reflected immediately. If you created a ch
 #### 2 - Harry Potter and the Chamber of Ratios
   1. *The Worst Birthday*
 #### 3 - *Harry Potter and the Locked-up Dude*
+  1. *Bird DMs*
 #### 4 - *Harry Potter and the Chug Jug of Fiya*
   17. *The Four Champions*
 #### 5 - *Harry Potter and the Fiya-Bird Squad*
