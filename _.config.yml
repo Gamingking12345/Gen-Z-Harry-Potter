@@ -1,0 +1,9 @@
+remote-theme: amitmerchant1990/reverie
+plugins:
+  - jekyll-relative-links
+relative_links:
+  enabled: true
+  collections: true
+include:
+  - README.md
+  
